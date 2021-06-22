@@ -39,5 +39,17 @@ Implementing Store 4 provides you with the following advantages:
 This project follows MVVM Android architecture guidelines.
 
 
+To quickly start a new project from this boilerplate follow the next steps:
+
+* Download this [repository as zip](https://github.com/RahulAndroid-CrownStack/Jackson-Songs/archive/refs/heads/master.zip).
+* Change the package name. 
+  * Rename packages in main using Android Studio.
+  * In `app/build.gradle` file, `packageName`.
+  * In `src/main/AndroidManifest.xml`.
+* Create a new git repository.
+* Replace the example code with your app code following the same architecture.
+* Update README with information relevant to the new project.
+
+
 
 
