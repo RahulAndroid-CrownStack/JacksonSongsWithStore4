@@ -11,6 +11,10 @@ Implementing Store 4 provides you with the following advantages:
  - Rich API to ask for data whether you want cached, new or a stream of future data updates.
 
 
+## Pre-requisites
+ - Experience with Kotlin syntax.
+
+
 ## Libraries Used
 - [Store 4](https://github.com/dropbox/Store): Store is a Kotlin library for loading data from remote and local sources.
 - [Navigation Components](https://developer.android.com/guide/navigation)
