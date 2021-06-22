@@ -5,12 +5,10 @@
 The app shows list of albums, fetched from the api, usin dropbox library Store 4. 
 
 Implementing Store 4 provides you with the following advantages:
-```
-├──In-memory caching
-├──Disk caching for when users are offline
-├──Throttling of API calls when parallel requests are made for the same resource
-├──Rich API to ask for data whether you want cached, new or a stream of future data updates.
-```
+ - In-memory caching
+ - Disk caching for when users are offline
+ - Throttling of API calls when parallel requests are made for the same resource
+ - Rich API to ask for data whether you want cached, new or a stream of future data updates.
 
 
 ## Libraries Used
