@@ -41,7 +41,7 @@ This project follows MVVM Android architecture guidelines.
 
 To quickly start a new project from this boilerplate follow the next steps:
 
-* Download this [repository as zip](https://github.com/RahulAndroid-CrownStack/Jackson-Songs/archive/refs/heads/master.zip).
+* Download this [repository as zip](https://github.com/RahulAndroid-CrownStack/JacksonSongsWithStore4/archive/refs/heads/master.zip).
 * Change the package name. 
   * Rename packages in main using Android Studio.
   * In `app/build.gradle` file, `packageName`.
